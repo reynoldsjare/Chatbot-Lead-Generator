@@ -1,6 +1,4 @@
-const { exec } = require('child_process');
-HEAD{
-  "name": "chatbot",
+{"name": "chatbot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,20 +6,4 @@ HEAD{
     "start": "node start.js"
   },
   "author": "",
-  "license": "ISC"
-}
-
-=======
-{
-  "name": "chatbot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node start.js"
-  },
-  "author": "",
-  "license": "ISC"
-}
-
->>>>>>> de97a124c25435692d947872e74f27d9e5ae35a8
+  "license": "ISC"}

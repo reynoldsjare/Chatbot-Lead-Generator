@@ -1,4 +1,2 @@
 web: python chatbot.py
 
-ls -l Procfile
-

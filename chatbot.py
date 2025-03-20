@@ -5,7 +5,7 @@ import sqlite3
 app = Flask(__name__)
 
 # Set your OpenAI API Key (Get one at platform.openai.com)
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "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"
 
 # Function to save leads in a local database
 def save_lead(name, email, message):
